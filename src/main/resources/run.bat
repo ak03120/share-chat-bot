@@ -1,0 +1,1 @@
+java -jar ShareChatBot1.jar token
